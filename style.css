@@ -57,7 +57,7 @@ a:hover {
 .s1h1 {
     font-size: 25px;
     color: #424d41;
-    padding-top: 20px;
+    padding-top: 50px;
     padding-bottom: 10px;
     font-weight: 500;
     max-width: 700px;
@@ -104,4 +104,67 @@ a:hover {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+}
+
+.section-two {
+    background-color: #f5f5bb;
+}
+
+.s2h1 {
+    text-align: center;
+    font-size: 25px;
+    color: #424d41;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-weight: 500;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.c1img {
+    max-height: 200px;
+    max-width: 200px;
+    border-radius: 25px;
+    border: solid #424d41;
+    border-width: 5px;
+    box-shadow: 5px 5px 10px #ddfedb; 
+}
+
+.c2img {
+    max-height: 200px;
+    max-width: 200px;
+    border-radius: 25px;
+    border: solid #424d41;
+    border-width: 5px;
+    box-shadow: 5px 5px 10px #ddfedb; 
+}
+
+.c3img {
+    max-height: 200px;
+    max-width: 200px;
+    border-radius: 25px;
+    border: solid #424d41;
+    border-width: 5px;
+    box-shadow: 5px 5px 10px #ddfedb; 
+}
+
+.c4img {
+    max-height: 200px;
+    max-width: 200px;
+    border-radius: 25px;
+    border: solid #424d41;
+    border-width: 5px;
+    box-shadow: 5px 5px 10px #ddfedb; 
+}
+
+.s2h4 {
+    text-align: center;
+    max-width: 200px;
+    padding-bottom: 25px;
 }
