@@ -5,7 +5,7 @@ body {
 
 .header {
     display: flex;
-    background-color: #f5f5bb;
+    background-color: #424d41;
     justify-content: space-between;
     /* border: solid red; */
 }
@@ -199,4 +199,59 @@ a:hover {
     padding-top: 10px;
     font-weight: bold;
     font-size: 20px;
+}
+
+.section-four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.s4Text {
+    background-color: #c4c496;
+    border-radius: 5px;
+    margin: 25px;
+    padding: 20px;
+    width: 700px;
+    height: auto;
+}
+
+.s4h1 {
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+
+.s4h4 {
+    font-weight: 100;
+    padding-bottom: 5px;
+}
+
+.s4btn {
+    margin-top: 5px;
+    background-color: #f5f5bb;
+    border: none;
+    color: #424d41;
+    border: solid #424d41;
+    padding: 5px 12.5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.s4btn:hover {
+    background-color: #424d41;
+    border: none;
+    color: #f5f5bb;
+    border: solid #f5f5bb;
+    padding: 5px 12.5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.footer {
+    background-color: #424d41;
+    color: #f5f5bb;
+    text-align: center;
+    padding: 10px;
 }
