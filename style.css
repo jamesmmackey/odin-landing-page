@@ -3,6 +3,11 @@ body {
     background-color: #f5f5bb;
 }
 
+.bodyBox {
+    display: flex;
+    flex-direction: column;
+}
+
 .header {
     display: flex;
     background-color: #424d41;
