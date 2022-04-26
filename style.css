@@ -254,4 +254,6 @@ a:hover {
     color: #f5f5bb;
     text-align: center;
     padding: 10px;
+    bottom: 0px;
+    position: fixed;
 }
